@@ -19,7 +19,7 @@ Installation
 =
 Dependencies will be automatically installed.
 
-    $ git clone https://github.com/aryanrtm/KawaiiDeauther
+    $ https://github.com/mrroot54/wifi_jammar_tool.git
     $ cd KawaiiDeauther && sudo ./install.sh
     $ sudo KawaiiDeauther.sh
 
